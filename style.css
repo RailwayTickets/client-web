@@ -1,0 +1,18 @@
+
+.center {
+    padding-left: 35%;
+    padding-top: 5%;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: dimgray;
+}
+
+.text {
+    padding: 2% 15% 10% 25%;
+}
